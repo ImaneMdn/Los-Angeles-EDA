@@ -18,4 +18,4 @@ In this project I have used a dataset from Kaggle:
 2. **Step 2:** Reading + Exploring Data.
 3. **Step 3:** Data Cleaning + Preprocessing.
 4. **Step 4:** Data Analysis + Visualization.
-5. **2020- 2021 Crime Data Analysis Final Results**
+5. **2020- 2021 Crime Data Analysis Final Results.**
